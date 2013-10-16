@@ -1,0 +1,4 @@
+#ifndef SHAREDIALOG_H
+#define SHAREDIALOG_H
+
+#endif // SHAREDIALOG_H
