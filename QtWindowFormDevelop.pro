@@ -1,0 +1,2 @@
+SOURCES += \
+    mainwindow.cpp
